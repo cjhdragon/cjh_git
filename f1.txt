@@ -4,3 +4,4 @@ Line 3
 line 4
 Line 5
 Line 6  on edit remote
+Line 7 on remote commit
